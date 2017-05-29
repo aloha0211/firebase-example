@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984605594025",
+    "firebase_url": "https://realtimedemo-85f53.firebaseio.com",
+    "project_id": "realtimedemo-85f53",
+    "storage_bucket": "realtimedemo-85f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984605594025:android:2ccf39d3f448999c",
+        "android_client_info": {
+          "package_name": "com.treehouse.realtimemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984605594025-32mt1oetbl93ld7feub2io7hrqhea8m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treehouse.realtimemessaging",
+            "certificate_hash": "e90407e261fb6205f9852ce51e544c86e83ab5ca"
+          }
+        },
+        {
+          "client_id": "984605594025-g438k9mak1mvrm9grt11sivk2lttcsl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_5NXG-DAxvfJJnuJNe9KtiXxrg4k9_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984605594025-g438k9mak1mvrm9grt11sivk2lttcsl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
